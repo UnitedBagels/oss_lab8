@@ -65,6 +65,6 @@ do_test(Tutorial 25 "25 is 5")
 do_test(Tutorial -25 "-25 is [-nan|nan|0]")
 do_test(Tutorial 0.0001 "0.0001 is 0.01")
 
-# added test again
+# added test, attempt 3
 
 do_test(Tutorial 4096 "4096 is 64")
